@@ -1,0 +1,14 @@
+COVID-19 Global Statistics Summary
+================================
+
+Total Confirmed Cases: 676,570,149
+Total Deaths: 6,881,802
+Total Recovered: 0
+Active Cases: 669,688,347
+
+Global Mortality Rate: 1.02%
+Global Recovery Rate: 0.0%
+
+Most Affected Country: US (103,802,702 cases)
+Country with Highest Deaths: US
+Country with Highest Mortality Rate: Korea, North (600.0%)
